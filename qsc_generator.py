@@ -1,3 +1,8 @@
+""" 
+University of Tuscia & Renaissance Fusion
+
+Author:	Matteo Notazio, University of Tuscia 
+"""
 from qsc import Qsc
 import numpy as np
 import random as rnd
