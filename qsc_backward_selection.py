@@ -5,12 +5,10 @@ Author:	Matteo Notazio, University of Tuscia
 """
 
 import os
-import f90nml
 import numpy
 import math
 from simsopt.util.mpi import MpiPartition
 from simsopt.mhd import Vmec
-from simsopt.geo.surface import Surface
 
 mpi = MpiPartition(ngroups=3)
 
